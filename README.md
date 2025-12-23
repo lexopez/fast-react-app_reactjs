@@ -1,18 +1,53 @@
-# React + Vite
+# 🍕 Fast React Pizza Co.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Fast React Pizza Co. is a **React.js learning project** that simulates a simple pizza ordering experience.  
+This project is built purely for **educational purposes** to practice modern React concepts, including routing and data loading.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Project Purpose
 
-## React Compiler
+The main goal of this project is to help understand:
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+- Core **React fundamentals**
+- **Component-based architecture**
+- Client-side routing using **React Router**
+- Data loading with **React Router loaders**
+- State and props handling
+- Basic user interactions and UI structure
 
-Note: This will impact Vite dev & build performances.
+---
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- **React.js**
+- **React Router**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS**
+
+---
+
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/lexopez/fast-react-app_reactjs.git
+```
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Run the development server
+
+```bash
+npm run dev
+```
+
+---
